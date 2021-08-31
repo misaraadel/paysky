@@ -1,0 +1,40 @@
+@media(max-width: 900px)
+{
+    h1,h2,h3 {
+        font-size: 18px !important;
+    }
+    h4 {
+        font-size: 16px !important;
+    }
+    h5 {
+        font-size: 14px !important;
+    }
+    h6 , .contact-us form .form-group .text {
+        font-size: 15px !important;
+    }
+    p , a , li {
+        font-size: 13px !important;
+    }
+    .bubbly-button i
+    {
+        margin: 0px 5px;
+    }
+    .mobile-none{
+        display: none !important;
+    }
+    .nav-toggler , footer .content.flex-shape{
+        display: block !important;
+    }
+    .owl-theme .owl-nav.disabled + .owl-dots{
+        position: relative;
+        margin-top: 50px;
+    }
+    .categories .nav-tabs .nav-link .box
+    {
+        margin: 30px 0px;
+    }
+    .why-paysky .owl-why
+    {
+        margin: 0px !important;
+    }
+}
